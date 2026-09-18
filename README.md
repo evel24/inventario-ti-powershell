@@ -1,7 +1,5 @@
 # Inventário Automatizado de Ativos de TI — PowerShell
 
-Projeto de portfólio voltado para vagas de **Suporte de TI, Service Desk, N1/N2 e Infraestrutura**.
-
 ## Objetivo
 
 Automatizar a coleta de informações básicas de estações Windows para facilitar inventário, conferência de ativos e diagnóstico inicial.
