@@ -1,0 +1,2 @@
+﻿Hostname,UsuarioAtual,Fabricante,Modelo,NumeroSerie,Processador,RAM_GB,SistemaOperacional,VersaoSO,BuildSO,Arquitetura,EnderecoIP,DiscoTotal_GB,DiscoLivre_GB,UltimoBoot,DataColeta,StatusColeta,Erro
+PC-SUPORTE-001,EMPRESA\evelyn,Dell Inc.,Latitude 5420,ABC1234,11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz,16,Microsoft Windows 11 Pro,10.0.26100,26100,64-bit,192.168.1.35,476.94,218.42,2026-09-18 08:14:00,2026-09-18 14:45:00,OK,
